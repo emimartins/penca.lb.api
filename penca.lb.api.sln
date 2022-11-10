@@ -1,9 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1703.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "penca.lb.api", "penca.lb.api\penca.lb.api.csproj", "{DA3908E8-3F65-48D8-812F-A9A48EB6BA75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "penca.lb.data", "penca.lb.data\penca.lb.data.csproj", "{9D52FEF4-F718-4551-841F-9D190EAFECA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DA3908E8-3F65-48D8-812F-A9A48EB6BA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3908E8-3F65-48D8-812F-A9A48EB6BA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3908E8-3F65-48D8-812F-A9A48EB6BA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D52FEF4-F718-4551-841F-9D190EAFECA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D52FEF4-F718-4551-841F-9D190EAFECA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D52FEF4-F718-4551-841F-9D190EAFECA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D52FEF4-F718-4551-841F-9D190EAFECA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
